@@ -1,0 +1,2 @@
+"The ABC of Go";25.5;1500
+"Functional Programming with Go";56;280
